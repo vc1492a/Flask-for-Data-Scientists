@@ -12,7 +12,6 @@ Non-native python dependencies:
 * [Werkzeug](http://werkzeug.pocoo.org/)
 * [Flask](http://flask.pocoo.org/)
 * [pandas](http://pandas.pydata.org/)
-* [matplotlib](http://matplotlib.org/)
 * [APScheduler](http://matplotlib.org/)
 * [pydataset](https://github.com/iamaziz/PyDataset)
 
