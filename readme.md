@@ -8,6 +8,8 @@ A tutorial introducing the basic concepts of web frameworks and Flask,
 with a short coding demo. 
 
 Non-native python dependencies:
+* [Jinga2](http://jinja.pocoo.org/)
+* [Werkzeug](http://werkzeug.pocoo.org/)
 * [Flask](http://flask.pocoo.org/)
 * [pandas](http://pandas.pydata.org/)
 * [matplotlib](http://matplotlib.org/)
